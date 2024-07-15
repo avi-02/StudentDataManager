@@ -17,10 +17,10 @@ Compatibility Note
 This program utilizes the unistd.h library, which includes functions like sleep() and system("clear"), specifically designed for Unix/Linux-based operating systems. Detailed instructions for adapting the program to other operating systems, such as Windows, will be provided soon.
 
 ### A few screenshots of the program running in the terminal-
-![Admin's Menu](screenshots/admin_menu.png "Admin's Menu")
+![Admin's Menu](https://github.com/avi-02/StudentDataManager/blob/main/admin_menu.png)
 ![Add Record](https://github.com/avi-02/StudentDataManager/blob/main/add_record.png)
-![View Records](screenshots/view_record.png "View Records")
-![Delete Record](screenshots/delete_record.png "Delete Record")
+![View Records](https://github.com/avi-02/StudentDataManager/blob/main/view_record.png)
+![Delete Record](https://github.com/avi-02/StudentDataManager/blob/main/delete_record.png)
 
 ### To get and run this program, run these commands in your terminal:
 
