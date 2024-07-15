@@ -16,9 +16,9 @@ Search: Quickly locate and view details of any student record by their ID.
 Compatibility Note
 This program utilizes the unistd.h library, which includes functions like sleep() and system("clear"), specifically designed for Unix/Linux-based operating systems. Detailed instructions for adapting the program to other operating systems, such as Windows, will be provided soon.
 
-### Few screenshots of the program running in terminal-
+### A few screenshots of the program running in the terminal-
 ![Admin's Menu](screenshots/admin_menu.png "Admin's Menu")
-![Add Record]([screenshots/add_record.png "Add Record"](https://github.com/avi-02/StudentDataManager/blob/main/add_record.png))
+![Add Record](https://github.com/avi-02/StudentDataManager/blob/main/add_record.png)
 ![View Records](screenshots/view_record.png "View Records")
 ![Delete Record](screenshots/delete_record.png "Delete Record")
 
