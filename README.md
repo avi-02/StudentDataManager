@@ -24,7 +24,7 @@ This program utilizes the unistd.h library, which includes functions like sleep(
 
 ### To get and run this program, run these commands in your terminal:
 
-1.  git clone git@github.com:Bishnukt/Student_Data_Manager.git
-1.  cd Student_Data_Manager
-1.  g++ -o sdm sdm.cpp admin.cpp load.cpp
-1.  ./sdm
+1. git clone 
+2. cd StudentDataManager
+3. g++ -std=c++11 -o sdm sdm.cpp admin.cpp load.cpp
+4. ./sdm
