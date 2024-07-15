@@ -18,7 +18,7 @@ This program utilizes the unistd.h library, which includes functions like sleep(
 
 ### Few screenshots of the program running in terminal-
 ![Admin's Menu](screenshots/admin_menu.png "Admin's Menu")
-![Add Record](screenshots/add_record.png "Add Record")
+![Add Record]([screenshots/add_record.png "Add Record"](https://github.com/avi-02/StudentDataManager/blob/main/add_record.png))
 ![View Records](screenshots/view_record.png "View Records")
 ![Delete Record](screenshots/delete_record.png "Delete Record")
 
